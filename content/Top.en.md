@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
-imageFileName: "header-bg.jpg"
+header: "Interior Exterior Custom DOORS"
+subheader: "We are here to help you with ALL your door needs!"
+imageFileName: "hero-bg.jpg"
 jumpToAnchor: "Services"
-jumpToAnchorText: "Tell Me More"
+jumpToAnchorText: "SCHEDULE SERVICES!"
 ---

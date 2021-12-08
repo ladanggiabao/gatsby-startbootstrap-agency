@@ -79,11 +79,12 @@
   "scripts": {
     "clean": "gatsby clean",
     "build": "gatsby build",
-    "dev": "gatsby develop",
+    "dev": "gatsby develop --open",
     "format": "prettier --write src/**/*.{js,jsx}",
-    "serve": "gatsby serve",
+    "serve": "gatsby serve --open",
     "eslint": "eslint ./src",
     "test": "cross-env NODE_ENV=test yarn run eslint",
-    "testbuild": "yarn test && yarn build"
+    "testbuild": "yarn test && yarn build",
+    "plugins": "gatsby plugin docs"
   }
 }

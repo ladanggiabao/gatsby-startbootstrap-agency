@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "All About Doors"
 menuText: "Menu "
 ---
